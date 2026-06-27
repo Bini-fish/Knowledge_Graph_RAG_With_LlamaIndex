@@ -17,8 +17,6 @@ A financial sentiment analysis pipeline that uses **LlamaIndex** and a **Neo4j**
 ├── .env.example            # Template for API keys and Neo4j config
 ├── notebook/
 │   └── updated_market_data_analysis.ipynb
-├── references/
-│   └── Solution Methodology.pdf
 ├── src/
 │   ├── constants.py        # Config (env vars or placeholders)
 │   ├── graph_store_creation.py   # Build graph from documents
